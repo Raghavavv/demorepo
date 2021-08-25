@@ -1,1 +1,2 @@
 Hi this is the first Git Session.
+First changes committing in the code file
